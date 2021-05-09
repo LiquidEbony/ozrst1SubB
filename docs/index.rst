@@ -9,8 +9,6 @@ Welcome to SphinxTestSubB's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
-   :doc:'Main:index'
 
 SUB PROJECT B
 
