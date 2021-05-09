@@ -9,12 +9,15 @@ Welcome to SphinxTestSubB's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   :doc:'Main:index'
 
 SUB PROJECT B
 
 Indices and tables
 ==================
-
+* :doc:`Main:index`
+* :doc:`SubA:index`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
